@@ -6,4 +6,9 @@ Repositório com o objetivo de apresentar uma cena criada no Unity, desenvolvido
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/c1fe5dbe-f97e-4a3d-ae2e-079ac90307ac)
  Foto do cenário atual do jogo: foi adicionado em ordem: terreno verde claro ---> estrada ---> árvores ---> coloração das árvores ---> mudança da cor do terreno para verde escuro ---> elevação da estrada ---> criação de um terreno elevado ---> adição de rochas na tentativa de simular uma montanha.
+
+## Criação da Cena
+
+# Terreno
+ O terreno foi feito utilizando-se de um objeto Quad, o qual foi manipulado para preencher uma área maior. Após ser alocado, foi adicionado uma coloração esverdeada clara para o mesmo na intenção de simular grama. 
  
