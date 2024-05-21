@@ -16,42 +16,48 @@
 
  Foi feito uma variação na coloração das folhas de cada árvore no intuito de deixar bonito visualmente e mais variado. O carro foi adicionado com o intuito de preencher mais a cena e permitir uma maior imersão na cena, tentando deixar aparente a presença de uma pessoa ali. Agora o solo foi feito utilizando-se de Cube e a estrada de Quad como é possível se observar abaixo:
 
- * Estrada:
+  Estrada:
+
  ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/b1442d63-fd81-4503-bfe0-86f359c57e16)
 
-* Solo:
+ Solo:
+
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/763b1f05-2797-4aaa-999f-469e1c1ebe90)
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/49d8aeb5-04ba-400e-b599-7f2a454b9f91)
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/ec987770-e061-495c-82ac-d3deae083532)
 
-* Céu:
+
+
+ Céu:
+
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/98edb36f-0276-4d8e-9595-3343fd4c3efc)
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/9c9ac96b-61e8-4138-b182-d8122e2ba6ad)
 
+
+
 ## Fisica
 
- Physic Material
+ Physic Material:
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/18904bb6-e721-4bd6-9fcd-fc1fc8c03ebb)
 
 
- Rigidbbody
-
-
+ Rigidbbody:
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/63e28b39-f2ad-46d5-a2a4-e015403a873f)
 
 
-Capsule Collider
+Capsule Collider:
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/72f180ff-1b2a-4410-bb1e-0b071756c471)
 
 
 
 ## Camera
+
 
 
 ## Video
