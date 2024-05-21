@@ -40,6 +40,8 @@
 
  Rigidbbody
 
+
+
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/63e28b39-f2ad-46d5-a2a4-e015403a873f)
 
 
@@ -51,9 +53,8 @@ Capsule Collider
 
 ## Camera
 
-![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/32fb183c-e361-461c-a130-6486e71dde5d)
-
 
 ## Video
 
-![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/c859766f-b102-4bb1-890c-d7647b9f40e7)
+
+https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/e4740141-4a88-4d34-a4df-ea84e12513a5
