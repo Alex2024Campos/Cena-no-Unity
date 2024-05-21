@@ -7,7 +7,7 @@
  ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/b643b91b-97dd-421c-9d3e-6136b3fbfeca)
 
 ## Materiais utilizados
- Todo o solo da cena foi feito utilizando-se em sua maioria Cube (grama, montanha, etc), tendo somente algumas formas que utilizem do Quad (estrada). Foram utilizados alguns objetos para a composição da cena, como por exemplo as árvores e o carro. Está planejado adicionar mais alguns objetos para a composição da parte mais elevada do cenário ou em outras palavras, onde se encontra o carro.
+ Todo o solo da cena foi feito utilizando-se em sua maioria Cube (grama, montanha, etc), tendo somente algumas formas que utilizem do Quad (estrada). Foram utilizados alguns objetos da AssetStore para a composição da cena, como por exemplo as árvores e o carro, foi também adicionado dois objetos para criar um céu atrás de todo o cenário. Está planejado adicionar mais alguns objetos para a composição da parte mais elevada do cenário ou em outras palavras, onde se encontra o carro.
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/36bfbd26-d696-490e-8e67-fa53dedb8343)
 
