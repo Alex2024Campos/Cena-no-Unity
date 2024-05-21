@@ -41,16 +41,19 @@
 ## Fisica
 
  Physic Material:
-
+* O Physic Materia permite modificarmos a real força de impacto do objeto, determinando assim se ele irá quicar ao colidir com o chão e a altura do mesmo, ou se ele não será tão afetado e não subirá muito. Também é possível modificar a fricção do objeto, o que determina a força que se opõe ao objeto
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/18904bb6-e721-4bd6-9fcd-fc1fc8c03ebb)
 
 
  Rigidbbody:
+ * O Rigidbody, como é possível observar abaixo, permite ao usuário transformar um objeto específico em algo realmente material, tendo assim a sua massa, centro de massa, angulação, entre outras opções, como por exemplo se o objeto terá realmente um centro de massa predefinido (tem como alterar por conta própria a região do centro de massa) ou se ele respeitará a gravidade.
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/63e28b39-f2ad-46d5-a2a4-e015403a873f)
 
 
 Capsule Collider:
+ * Não sei direito ainda, pretendo mudar para cubos ou bolas e tentar modifica-las com as minhas próprias mãos, mas pelo o que eu entendi sobre: é o que determina a física de uma forma naquele formato lá
+
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/72f180ff-1b2a-4410-bb1e-0b071756c471)
 
