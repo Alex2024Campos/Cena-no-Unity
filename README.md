@@ -35,7 +35,7 @@
 
  Physic Material
 
-![Uploading image.png…]()
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/18904bb6-e721-4bd6-9fcd-fc1fc8c03ebb)
 
 
  Rigidbbody
