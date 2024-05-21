@@ -7,14 +7,14 @@
  ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/b643b91b-97dd-421c-9d3e-6136b3fbfeca)
 
 ## Materiais utilizados
- A maioria dos materiais que compoem a cena foram pegos da AssetStore, como o carro e as árvores. 
+ Todo o solo da cena foi feito utilizando-se em sua maioria Cube (grama, montanha, etc), tendo somente algumas formas que utilizem do Quad (estrada). Agora, sobre os objetos presentes
+
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/36bfbd26-d696-490e-8e67-fa53dedb8343)
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/8b3cf904-4387-4855-a847-d87ddc4e89d4)
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/5ff43963-902b-4fff-b7c4-8184efb0dea7)
 
- Foi feito uma variação na coloração das folhas de cada árvore no intuito de deixar bonito visualmente e mais variado. O carro foi adicionado com o intuito de preencher mais a cena e permitir uma maior imersão na cena, tentando deixar aparente a presença de uma pessoa ali. Agora o solo foi feito utilizando-se de Cube e a estrada de Quad como é possível se observar abaixo:
 
   Estrada:
 
@@ -57,6 +57,8 @@ Capsule Collider:
 
 
 ## Camera
+
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/9744ea83-8edf-455d-b502-fcf40c1eb00a)
 
 
 
