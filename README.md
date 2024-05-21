@@ -52,3 +52,8 @@ Capsule Collider
 ## Camera
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/32fb183c-e361-461c-a130-6486e71dde5d)
+
+
+## Video
+
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/c859766f-b102-4bb1-890c-d7647b9f40e7)
