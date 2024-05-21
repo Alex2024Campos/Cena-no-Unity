@@ -29,6 +29,9 @@
 * Céu:
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/98edb36f-0276-4d8e-9595-3343fd4c3efc)
 
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/9c9ac96b-61e8-4138-b182-d8122e2ba6ad)
+
+
 
 ## Camera
 
