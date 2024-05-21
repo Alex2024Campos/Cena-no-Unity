@@ -13,7 +13,20 @@ Repositório com o objetivo de apresentar uma cena criada no Unity, desenvolvido
 
 # Terreno
  O terreno do cenário foi feito utilizando-se do objeto Quad, o qual foi manipulado para preencher uma maior área da cena. Após ser inserido, foi adicionado uma coloração esverdeada clara para o mesmo na intenção de simular grama, mas depois foi mudado para uma coloração mais escura com o intuito de deixar mais realista e visualmente melhor. O terreno tem uma região mais baixa que é composta por modelos 3D da Asset Store de árvores e uma parte alta que tem uma rua e um relevo montanhoso.
+ ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/84fbf54a-6f74-40fd-80aa-87e08577e3f6)
+  Após um tempo editando, o terreno foi modificado e recebeu tanto cores novas como a estruturação do restante das duas áreas elevadas como é possível se observar na imagem. Na mesma, foi-se adicionado: as duas rampas (Cube) e a coloração verde escura para a grama da parte elevada e ainda mais escura para a "montanha" próxima da rua.
+
 
 # Modelos
  Foram pegos modelos 3D para compor e detalhar mais o cenário: foram adicionadas árvores dos mais diversos tipos e em cores variadas. Está planejado para pegar algumas rochas na Asset Store e inserir na parte do relevo montanhoso.
+
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/37e22e7f-bb1c-4ee9-9e92-eaa8242b4fd4)
+
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/cba724ec-556b-4589-bd25-92bccaa06f61)
+
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/0521643d-24f2-4415-83fa-1b6b3beb7e4d)
+
  
+# Camera
+
+
