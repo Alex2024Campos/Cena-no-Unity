@@ -31,6 +31,22 @@
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/9c9ac96b-61e8-4138-b182-d8122e2ba6ad)
 
+## Fisica
+
+ Physic Material
+
+![Uploading image.png…]()
+
+
+ Rigidbbody
+
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/63e28b39-f2ad-46d5-a2a4-e015403a873f)
+
+
+Capsule Collider
+
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/72f180ff-1b2a-4410-bb1e-0b071756c471)
+
 
 
 ## Camera
