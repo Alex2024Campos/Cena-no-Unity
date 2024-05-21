@@ -20,13 +20,14 @@ Repositório com o objetivo de apresentar uma cena criada no Unity, desenvolvido
 # Modelos
  Foram pegos modelos 3D para compor e detalhar mais o cenário: foram adicionadas árvores dos mais diversos tipos e em cores variadas. Está planejado para pegar algumas rochas na Asset Store e inserir na parte do relevo montanhoso.
 
-![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/37e22e7f-bb1c-4ee9-9e92-eaa8242b4fd4)
-
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/cba724ec-556b-4589-bd25-92bccaa06f61)
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/0521643d-24f2-4415-83fa-1b6b3beb7e4d)
 
+-
+
+
  
-# Camera
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/37e22e7f-bb1c-4ee9-9e92-eaa8242b4fd4)
 
 
