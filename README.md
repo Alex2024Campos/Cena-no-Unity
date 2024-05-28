@@ -85,13 +85,13 @@ ________________________________________________________________________________
 
 
  ### Physic Material:
-* O Physic Material permite modificarmos a real força de impacto do objeto, determinando assim se ele irá quicar ao colidir com o chão e a altura do mesmo, ou se ele não será tão afetado e não subirá muito. Também é possível modificar a fricção do objeto, o que determina a força que se opõe ao objeto.
+* O Physic Material permite modificarmos a real força de impacto do objeto, determinando assim se ele irá quicar ao colidir com o chão e a altura do mesmo, ou se ele não será tão afetado e não subirá muito. Também é possível modificar a fricção do objeto, o que determina a força que se opõe ao objeto. Utilizamos para modificar a física dos objetos que seriam lançados da montanha rua para baixo, assim adicionando algumas configurações extras e o básico para que os mesmos tivessem um efeito visualmente bom.
   
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/18904bb6-e721-4bd6-9fcd-fc1fc8c03ebb)
 
 
  ### Rigidbbody:
- * O Rigidbody, como é possível observar abaixo, permite ao usuário transformar um objeto específico em algo realmente material, tendo assim a sua massa, centro de massa, angulação, entre outras opções, como por exemplo se o objeto terá realmente um centro de massa predefinido (tem como alterar por conta própria a região do centro de massa) ou se ele respeitará a gravidade.
+ * O Rigidbody, como é possível observar abaixo, permite ao usuário transformar um objeto específico em algo realmente material, tendo assim a sua massa, centro de massa, angulação, entre outras opções, como por exemplo se o objeto terá realmente um centro de massa predefinido (tem como alterar por conta própria a região do centro de massa) ou se ele respeitará a gravidade. Foi utilizado para fazer os objetos se tornarem algo material de verdade, assim podendo ter as suas colisões, massa, entre outros, foi até mesmo adicionado no carro, aliás.
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/63e28b39-f2ad-46d5-a2a4-e015403a873f)
 
@@ -103,4 +103,5 @@ ________________________________________________________________________________
 
 
 ## Video
+* Aqui está o vídeo da cena finalizada.
 https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/8871fe59-735e-4cb7-ae46-622b2640d9ab
