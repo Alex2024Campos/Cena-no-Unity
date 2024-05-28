@@ -6,7 +6,7 @@
 
 ## Contexto da Cena
  * A cena foi criada inspirando-se na ideia de um deslizamento de terras (a qual carrega junto a si outros objetos menores) em uma região elevada em direção a costa. No intuito de deixar mais imersivo, foi-se adicionado um carro Sedan da Asset Store no intuito de simular que alguém estava ali. Utilizamos bastante de modelos 3D já prontos, principalmente para a composição da floresta na parte de trás da montanha e também da floresta abaixo da câmera posicionada, mas algumas partes do projeto foram feitos pegando do 3D Game Object, como por exemplo: O que está caindo da montanha, a montanha e todo o solo.
- * 
+   
  ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/b643b91b-97dd-421c-9d3e-6136b3fbfeca)
  
 * Abaixo está uma imagem da cena concluida.
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 ### Árvores:
 * Foram utilizadas para a composição do cenário abaixo e ao redor da câmera e da montanha.
-* 
+  
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/36bfbd26-d696-490e-8e67-fa53dedb8343)
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/8b3cf904-4387-4855-a847-d87ddc4e89d4)
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 ### Estrada: 
 * Foi construída por nós mesmos para melhor imersão e também composição do cenário. Não faria sentido ter um carro e não ter uma estrada.
-* 
+  
  ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/b1442d63-fd81-4503-bfe0-86f359c57e16)
 
 ### Solo:
@@ -98,6 +98,7 @@ ________________________________________________________________________________
 
 ## Câmera
  * A câmera foi estrategicamente posicionada para providenciar uma visão de toda a montanha e dos objetos que cairão, que inclusive, foram pegos do Game Object 3D.
+   
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/353abd81-1d3e-4907-81d9-5709293a875d)
 
 
