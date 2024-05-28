@@ -5,6 +5,10 @@
 ## Contexto da Cena
  A cena foi criada se inspirando em alguns eventos que ocorrem até que bem frequentemente, os deslizamentos de terra. O cenário da mesma é inspirado no Cerrado antes da região costeira em São Paulo, onde é composto por: uma área mais elevada, uma estrada próxima dela e uma região mais baixa. Exemplo:
  ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/b643b91b-97dd-421c-9d3e-6136b3fbfeca)
+ 
+ Agora, uma imagem da cena finalizada:
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/e346f499-088c-4692-8a62-f5faebb447f9)
+
 
 ## Materiais utilizados
  Todo o solo da cena foi feito utilizando-se em sua maioria Cube (grama, montanha, etc), tendo somente algumas formas que utilizem do Quad (estrada). Foram utilizados alguns objetos da AssetStore para a composição da cena, como por exemplo as árvores e o carro, foi também adicionado dois objetos para criar um céu atrás de todo o cenário. Está planejado adicionar mais alguns objetos para a composição da parte mais elevada do cenário ou em outras palavras, onde se encontra o carro.
@@ -37,6 +41,18 @@
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/9c9ac96b-61e8-4138-b182-d8122e2ba6ad)
 
 
+Pedras: 
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/2dcf2d59-3e16-4157-a7be-208dbc95818d)
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/7409428b-1ee0-4834-9da7-40c4706116dc)
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/4def9a3f-6e68-4f1d-8784-0a607419b2b9)
+
+
+Troncos:
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/ce3de838-8a27-44d7-a0ba-aa43faa1c842)
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/021d1544-7a4c-4734-87c2-8f42a089cfe9)
+
+
+
 
 ## Fisica
 
@@ -62,7 +78,7 @@ Capsule Collider:
 ## Câmera
  * A câmera foi estrategicamente posicionada para providenciar uma visão de toda a montanha e dos objetos que cairão, que inclusive, foram pegos do Game Object 3D.
 
-![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/9744ea83-8edf-455d-b502-fcf40c1eb00a)
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/33108840-c739-4217-bc2b-85ef748da916)
 
 
 
