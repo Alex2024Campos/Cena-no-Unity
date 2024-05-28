@@ -20,11 +20,11 @@
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/5ff43963-902b-4fff-b7c4-8184efb0dea7)
 
 
- Estrada: 
+### Estrada: 
 
  ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/b1442d63-fd81-4503-bfe0-86f359c57e16)
 
- Solo:
+### Solo:
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/763b1f05-2797-4aaa-999f-469e1c1ebe90)
 
@@ -34,20 +34,20 @@
 
 
 
- Céu:
+### Céu:
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/98edb36f-0276-4d8e-9595-3343fd4c3efc)
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/9c9ac96b-61e8-4138-b182-d8122e2ba6ad)
 
 
-Pedras: 
+### Pedras: 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/2dcf2d59-3e16-4157-a7be-208dbc95818d)
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/7409428b-1ee0-4834-9da7-40c4706116dc)
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/4def9a3f-6e68-4f1d-8784-0a607419b2b9)
 
 
-Troncos:
+### Troncos:
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/ce3de838-8a27-44d7-a0ba-aa43faa1c842)
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/021d1544-7a4c-4734-87c2-8f42a089cfe9)
 
@@ -56,18 +56,22 @@ Troncos:
 
 ## Fisica
 
- Physic Material:
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/78d2c55a-11d3-4652-a0fd-f6e92392c977)
+![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/d9b6bc9e-ce17-43e8-a01e-e07e39fe288b)
+
+
+ ### Physic Material:
 * O Physic Materia permite modificarmos a real força de impacto do objeto, determinando assim se ele irá quicar ao colidir com o chão e a altura do mesmo, ou se ele não será tão afetado e não subirá muito. Também é possível modificar a fricção do objeto, o que determina a força que se opõe ao objeto
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/18904bb6-e721-4bd6-9fcd-fc1fc8c03ebb)
 
 
- Rigidbbody:
+ ### Rigidbbody:
  * O Rigidbody, como é possível observar abaixo, permite ao usuário transformar um objeto específico em algo realmente material, tendo assim a sua massa, centro de massa, angulação, entre outras opções, como por exemplo se o objeto terá realmente um centro de massa predefinido (tem como alterar por conta própria a região do centro de massa) ou se ele respeitará a gravidade.
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/63e28b39-f2ad-46d5-a2a4-e015403a873f)
 
 
-Capsule Collider:
+ ### Capsule Collider:
  * Não sei direito ainda, pretendo mudar para cubos ou bolas e tentar modifica-las com as minhas próprias mãos, mas pelo o que eu entendi sobre: é o que determina a física de uma forma naquele formato lá
 
 
