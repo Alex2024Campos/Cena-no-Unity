@@ -78,7 +78,11 @@ Capsule Collider:
 ## Câmera
  * A câmera foi estrategicamente posicionada para providenciar uma visão de toda a montanha e dos objetos que cairão, que inclusive, foram pegos do Game Object 3D.
 
-![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/33108840-c739-4217-bc2b-85ef748da916)
+
+https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/8871fe59-735e-4cb7-ae46-622b2640d9ab
+
+
+
 
 
 
