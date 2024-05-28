@@ -85,7 +85,7 @@ ________________________________________________________________________________
 
 
  ### Physic Material:
-* O Physic Materia permite modificarmos a real força de impacto do objeto, determinando assim se ele irá quicar ao colidir com o chão e a altura do mesmo, ou se ele não será tão afetado e não subirá muito. Também é possível modificar a fricção do objeto, o que determina a força que se opõe ao objeto.
+* O Physic Material permite modificarmos a real força de impacto do objeto, determinando assim se ele irá quicar ao colidir com o chão e a altura do mesmo, ou se ele não será tão afetado e não subirá muito. Também é possível modificar a fricção do objeto, o que determina a força que se opõe ao objeto.
   
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/18904bb6-e721-4bd6-9fcd-fc1fc8c03ebb)
 
