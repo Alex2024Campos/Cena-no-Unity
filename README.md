@@ -1,22 +1,26 @@
 # Cena no Unity
- Esse repositório tem o intuito de apresentar uma cena criada no Unity pelos alunos e desenvolvido na aula de LP. Contém informações sobre o contexto da cena, materiais, terrenos, entre outros.
- Dupla: Alex Campos de Oliveira e Gabriel Barbosa Soares.
+ >[!Important]
+ > Sobre: Esse repositório tem o intuito de apresentar uma cena criada no Unity pelos alunos e desenvolvido na aula de LP. Contém informações sobre o contexto da cena, materiais, terrenos, entre outros.
+ > Dupla: Alex Campos de Oliveira e Gabriel Barbosa Soares.
+ > Curso: 2° Mtec Jogos Digitais.
 
 ## Contexto da Cena
- A cena foi criada se inspirando em alguns eventos que ocorrem até que bem frequentemente, os deslizamentos de terra. O cenário da mesma é inspirado no Cerrado antes da região costeira em São Paulo, onde é composto por: uma área mais elevada, uma estrada próxima dela e uma região mais baixa. Exemplo:
+ *A cena foi criada inspirando-se na ideia de um deslizamento de terras (a qual carrega junto a si outros objetos menores) em uma região elevada em direção a costa. No intuito de deixar mais imersivo, foi-se adicionado um carro Sedan da Asset Store no intuito de simular que alguém estava ali. Utilizamos bastante de modelos 3D já prontos, principalmente para a composição da floresta na parte de trás da montanha e também da floresta abaixo da câmera posicionada, mas algumas partes do projeto foram feitos pegando do 3D Game Object, como por exemplo: O que está caindo da montanha, a montanha e todo o solo.
  ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/b643b91b-97dd-421c-9d3e-6136b3fbfeca)
  
- Agora, uma imagem da cena finalizada:
+* Abaixo está uma imagem da cena concluida.
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/e346f499-088c-4692-8a62-f5faebb447f9)
 
 
 ## Materiais utilizados
- Todo o solo da cena foi feito utilizando-se em sua maioria Cube (grama, montanha, etc), tendo somente algumas formas que utilizem do Quad (estrada). Foram utilizados alguns objetos da AssetStore para a composição da cena, como por exemplo as árvores e o carro, foi também adicionado dois objetos para criar um céu atrás de todo o cenário. Está planejado adicionar mais alguns objetos para a composição da parte mais elevada do cenário ou em outras palavras, onde se encontra o carro.
+* Como dito anteriormente, todo o solo do cenário foi feito utilizando-se de, em sua maioria, objetos Cube (a grama, a montanha, entre outros, foram feitos utilizando do mesmo), tendo somente algumas formas que utilizem do Quad (estrada). Alguns objetos os quais foram pegos na AssetStore foram: Sedam (carro) e as árvores que estão presentes abaixo e a frente do usuário que estiver visualizando, o que sobrou falar foram as imagens de fundo que simulam o céu e as nuvens (duas imagens separadas), que foi pego na AssetStore e utilizado para a simulação de um belo céu atrás da montanha.
 
+### Árvores:
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/36bfbd26-d696-490e-8e67-fa53dedb8343)
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/8b3cf904-4387-4855-a847-d87ddc4e89d4)
 
+### Sedan:
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/5ff43963-902b-4fff-b7c4-8184efb0dea7)
 
 
@@ -56,12 +60,14 @@
 
 ## Fisica
 
+### Materiais Utilizados:
+ Foram criados 3 Physic Material para adicionar variedade nos impactos de cada objeto: cada um de seus valores se difere do outro, o que permite resultados variados e diferentes entre si, pulando muito ao impacto ou menos.
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/78d2c55a-11d3-4652-a0fd-f6e92392c977)
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/d9b6bc9e-ce17-43e8-a01e-e07e39fe288b)
 
 
  ### Physic Material:
-* O Physic Materia permite modificarmos a real força de impacto do objeto, determinando assim se ele irá quicar ao colidir com o chão e a altura do mesmo, ou se ele não será tão afetado e não subirá muito. Também é possível modificar a fricção do objeto, o que determina a força que se opõe ao objeto
+* O Physic Materia permite modificarmos a real força de impacto do objeto, determinando assim se ele irá quicar ao colidir com o chão e a altura do mesmo, ou se ele não será tão afetado e não subirá muito. Também é possível modificar a fricção do objeto, o que determina a força que se opõe ao objeto.
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/18904bb6-e721-4bd6-9fcd-fc1fc8c03ebb)
 
 
@@ -71,20 +77,9 @@
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/63e28b39-f2ad-46d5-a2a4-e015403a873f)
 
 
- ### Capsule Collider:
- * Não sei direito ainda, pretendo mudar para cubos ou bolas e tentar modifica-las com as minhas próprias mãos, mas pelo o que eu entendi sobre: é o que determina a física de uma forma naquele formato lá
-
-
-![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/72f180ff-1b2a-4410-bb1e-0b071756c471)
-
-
-
 ## Câmera
  * A câmera foi estrategicamente posicionada para providenciar uma visão de toda a montanha e dos objetos que cairão, que inclusive, foram pegos do Game Object 3D.
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/353abd81-1d3e-4907-81d9-5709293a875d)
-
-
-
 
 
 ## Video
