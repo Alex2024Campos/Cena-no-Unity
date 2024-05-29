@@ -104,4 +104,7 @@ ________________________________________________________________________________
 
 ## Video
 * Aqui está o vídeo da cena finalizada.
-https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/8871fe59-735e-4cb7-ae46-622b2640d9ab
+
+https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/d4f9da2d-2385-4bfb-b331-0afdda087d9f
+
+
