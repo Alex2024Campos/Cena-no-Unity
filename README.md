@@ -56,6 +56,7 @@ ________________________________________________________________________________
 
 
 ### Pedras: 
+* Como os troncos, foram pegos do 3D Game Object e também tiveram sua participação na cena da avalanche.
 
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/2dcf2d59-3e16-4157-a7be-208dbc95818d)
 
@@ -77,7 +78,7 @@ ________________________________________________________________________________
 ## Fisica
 
 ### Materiais Utilizados:
- Foram criados 3 Physic Material para adicionar variedade nos impactos de cada objeto: cada um de seus valores se difere do outro, o que permite resultados variados e diferentes entre si, pulando muito ao impacto ou menos.
+ Foram criados 3 Physic Material para adicionar variedade nos impactos de cada objeto: cada um de seus valores se difere do outro, o que permite resultados variados e diferentes entre si, pulando muito ao impacto ou menos dentre outras configurações.
  
 ![image](https://github.com/Alex2024Campos/Cena-no-Unity/assets/160960774/78d2c55a-11d3-4652-a0fd-f6e92392c977)
 
