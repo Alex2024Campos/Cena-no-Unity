@@ -1,8 +1,8 @@
 # Cena no Unity
  >[!Important]
- > Sobre: Esse repositório tem o intuito de apresentar uma cena criada no Unity pelos alunos e desenvolvido na aula de LP. Contém informações sobre o contexto da cena, materiais, terrenos, entre outros.
- > Dupla: Alex Campos de Oliveira e Gabriel Barbosa Soares.
- > Curso: 2° Mtec Jogos Digitais.
+ >- Sobre: Esse repositório tem o intuito de apresentar uma cena criada no Unity pelos alunos e desenvolvido na aula de LP. Contém informações sobre o contexto da cena, materiais, terrenos, entre outros.
+ >- Dupla: Alex Campos de Oliveira e Gabriel Barbosa Soares.
+ >- Curso: 2° Mtec Jogos Digitais.
 
 ## Contexto da Cena
  * A cena foi criada inspirando-se na ideia de um deslizamento de terras (a qual carrega junto a si outros objetos menores) em uma região elevada em direção a costa. No intuito de deixar mais imersivo, foi-se adicionado um carro Sedan da Asset Store no intuito de simular que alguém estava ali. Utilizamos bastante de modelos 3D já prontos, principalmente para a composição da floresta na parte de trás da montanha e também da floresta abaixo da câmera posicionada, mas algumas partes do projeto foram feitos pegando do 3D Game Object, como por exemplo: O que está caindo da montanha, a montanha e todo o solo.
