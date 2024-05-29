@@ -1,7 +1,7 @@
 # Cena no Unity
  >[!Important]
  >- Sobre: Esse repositório tem o intuito de apresentar uma cena criada no Unity pelos alunos e desenvolvido na aula de LP. Contém informações sobre o contexto da cena, materiais, terrenos, entre outros.
- >- Dupla: Alex Campos de Oliveira e Gabriel Barbosa Soares.
+ >- Dupla: Alex Campos de Oliveira e Gabriel Barbosa.
  >- Curso: 2° Mtec Jogos Digitais.
 
 ## Contexto da Cena
